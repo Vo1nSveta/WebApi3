@@ -11,7 +11,7 @@ namespace WorkshopClientApp.Controllers
         [HttpPost]
         public async Task<IActionResult> Login(LoginViewModel model)
         {
-            if (model.Password != "admin" && model.Username != "admin")
+            if (model.Password != "admin" || model.Username != "admin")
             {
                 ModelState.AddModelError("incorrectPassword", "Неверный логин или пароль");
             }

@@ -13,8 +13,6 @@ namespace WorkshopWebApi
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            builder.Services.AddDbContext<MyAppContext>();
-
             // Add services to the container.
             builder.Services.AddDbContext<MyAppContext>();
 
@@ -66,8 +64,7 @@ namespace WorkshopWebApi
                         ValidateIssuerSigningKey = true, // валидация ключа безопасности
                     };
                 });
-            builder.Services.AddAuthentication();
-
+    
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
