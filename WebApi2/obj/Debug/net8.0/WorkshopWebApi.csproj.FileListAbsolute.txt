@@ -561,7 +561,6 @@ D:\Lex\мага\Технологии разработки web-сервисов �
 D:\Lex\мага\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\WebApi3\WebApi3\WebApi2\obj\Debug\net8.0\staticwebassets.development.json
 D:\Lex\мага\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\WebApi3\WebApi3\WebApi2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\Lex\мага\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\WebApi3\WebApi3\WebApi2\obj\Debug\net8.0\swae.build.ex.cache
-D:\Lex\мага\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\WebApi3\WebApi3\WebApi2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Lex\мага\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\WebApi3\WebApi3\WebApi2\obj\Debug\net8.0\Workshop.5265706D.Up2Date
 D:\Lex\мага\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\WebApi3\WebApi3\WebApi2\obj\Debug\net8.0\WorkshopWebApi.genruntimeconfig.cache
 D:\Lex\мага\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\WebApi3\WebApi3\WebApi2\obj\Debug\net8.0\ref\WorkshopWebApi.dll

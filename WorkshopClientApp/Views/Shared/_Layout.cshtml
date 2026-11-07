@@ -25,20 +25,29 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="IndexEquipment">Оборудование</a>
                         </li>
-                        
-                        @if(User.Identity.IsAuthenticated)
+                        @if (User.Identity.IsAuthenticated)
                         {
-                            <li>@User.Identity.Name</li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="account" asp-action="logout">Выход</a>
+                                <span class="nav-link text-dark">
+                                    @User.Identity.Name
+                                    @(User.IsInRole("Admin") ? "(Администратор)" : "(Пользователь)")
+                                </span>
+                            </li>
+                            <li class="nav-item">
+                                <form method="post" asp-controller="Account" asp-action="Logout" class="d-inline">
+                                    <button type="submit" class="nav-link btn btn-link text-dark">Выход</button>
+                                </form>
                             </li>
                         }
-                         else
+                        else
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="account" asp-action="login">Авторизация</a>
+                                <a class="nav-link text-dark" asp-controller="Account" asp-action="Login">Авторизация</a>
                             </li>
-                        }                      
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-controller="Account" asp-action="Register">Регистрация</a>
+                            </li>
+                        }
                     </ul>
                 </div>
             </div>

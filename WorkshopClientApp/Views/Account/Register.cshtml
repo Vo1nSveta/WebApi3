@@ -1,0 +1,32 @@
+﻿@model WorkshopClientApp.Models.RegisterViewModel
+@{
+    ViewData["Title"] = "Регистрация";
+}
+
+<h2 class="h2">Регистрация</h2>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form method="post" asp-controller="Account" asp-action="Register">
+    <div class="mb-3">
+        <label asp-for="Username" class="form-label">Логин</label>
+        <input asp-for="Username" class="form-control" />
+        <span asp-validation-for="Username" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Password" class="form-label">Пароль</label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ConfirmPassword" class="form-label">Повтор пароля</label>
+        <input asp-for="ConfirmPassword" class="form-control" />
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Зарегистрироваться</button>
+    <a asp-action="Login" class="btn btn-link">У меня уже есть аккаунт</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
