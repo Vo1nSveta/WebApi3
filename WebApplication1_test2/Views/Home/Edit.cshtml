@@ -1,0 +1,30 @@
+﻿@model WebApp1_T1.Data.Workshop
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2 class="h2">Редактирование оборудования</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label for="workshop" class="form-label">Цех</label>
+        <input type="text"
+               name="workshop"
+               id="workshop"
+               class="form-control"
+               value="@Model?.workshop" />
+    </div>
+
+    <div class="mb-3">
+        <label for="equipment" class="form-label">Оборудование</label>
+        <input type="text"
+               name="equipment"
+               id="equipment"
+               class="form-control"
+               value="@Model?.equipment" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>
+

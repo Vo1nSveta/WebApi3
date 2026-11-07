@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Добавление оборудования";
+}
+
+<h2 class="h2">Добавление нового оборудования</h2>
+
+<form method="post" asp-action="Add">
+    <div class="mb-3">
+        <label for="workshop" class="form-label">Цех</label>
+        <input type="text" name="workshop" id="workshop" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+        <label for="equipment" class="form-label">Оборудование</label>
+        <input type="text" name="equipment" id="equipment" class="form-control" required>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Добавить</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger mt-3">
+        @foreach (var error in ViewData.ModelState.Values
+                    .SelectMany(v => v.Errors))
+        {
+            <div>@error.ErrorMessage</div>
+        }
+    </div>
+}

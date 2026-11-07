@@ -1,0 +1,22 @@
+﻿@model WorkshopClientApp.Data.Equipment
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2 class="h2">Редактирование оборудования</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label for="name" class="form-label">Оборудование</label>
+        <input type="text"
+               name="name"
+               id="name"
+               class="form-control"
+               value="@Model?.Name" />
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>
+

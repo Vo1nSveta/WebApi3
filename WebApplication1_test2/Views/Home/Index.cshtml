@@ -1,0 +1,65 @@
+﻿@model List<WebApp1_T1.Data.Workshop>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<a href="/home/add"><button class="btn btn-success">Добавить оборудование</button></a>
+
+
+<form method="post" class="row row-cols-lg-auto g-3 align-items-center mt-3">
+
+
+    <div class="col-12">
+        <input type="text" name="workshop" class="form-control" id="workshop" aria-describedby="emailHelp" placeholder="Цех">
+             
+    </div>
+
+    <div class="col-12">
+        <input type="text" name="equipment" id="equipment" class="form-control" placeholder="Оборудование" aria-describedby="emailHelp">
+
+    </div>
+
+    <button type="submit" class="btn btn-primary row-cols-lg-auto g-3 align-items-center mt-3" style="color: black;">Поиск</button>
+
+
+</form>
+
+<table class="table">
+    <tr>
+        <th>Цех</th>
+        <th>Оборудование</th>
+        <th>Действия</th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.workshop</td>
+            <td>@item.equipment</td>
+            <td>
+                <a href="/home/edit/@item.Id">Редактировать</a>
+                <a href="/home/remove/@item.Id" style="color: red;">Удалить</a>
+            </td>
+        </tr>
+        
+    }
+
+  
+
+</table>
+
+
+
+
+@* <form method="post">
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Number 1</label>
+        <input type="text" name="model.number1" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+          </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Number 2</label>
+        <input type="text" name="model.number2" class="form-control" id="exampleInputPassword1">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Создать</button>
+</form> *@

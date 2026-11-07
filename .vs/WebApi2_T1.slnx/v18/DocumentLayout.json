@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\data\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\data\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\views\\home\\editequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\views\\home\\editequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD572EE1-2CF1-4261-BD50-6DF7147520DA}|WebApi2\\WorkshopWebApi.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\webapi2\\data\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD572EE1-2CF1-4261-BD50-6DF7147520DA}|WebApi2\\WorkshopWebApi.csproj|solutionrelative:webapi2\\data\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\services\\workshopclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\services\\workshopclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD572EE1-2CF1-4261-BD50-6DF7147520DA}|WebApi2\\WorkshopWebApi.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\webapi2\\controllers\\workshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD572EE1-2CF1-4261-BD50-6DF7147520DA}|WebApi2\\WorkshopWebApi.csproj|solutionrelative:webapi2\\controllers\\workshopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\models\\workshopadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\models\\workshopadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\views\\home\\addequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\views\\home\\addequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\services\\equipmentclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\services\\equipmentclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\views\\home\\indexequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\views\\home\\indexequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|d:\\lex\\\u043C\u0430\u0433\u0430\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\webapi3\\webapi2_t1\\workshopclientapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC1EC9A6-1681-426E-86F6-AE60A33C6C4A}|WorkshopClientApp\\WorkshopClientApp.csproj|solutionrelative:workshopclientapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Workshop.cs",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Data\\Workshop.cs",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Data\\Workshop.cs",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Data\\Workshop.cs",
+              "RelativeToolTip": "WorkshopClientApp\\Data\\Workshop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T16:43:57.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "WorkshopClientApp\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T16:39:07.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WorkshopClientApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T16:25:16.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WorkshopClientApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T19:27:46.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WorkshopClientApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-06T16:26:55.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WorkshopClientApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:57:46.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkshopController.cs",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WebApi2\\Controllers\\WorkshopController.cs",
+              "RelativeDocumentMoniker": "WebApi2\\Controllers\\WorkshopController.cs",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WebApi2\\Controllers\\WorkshopController.cs",
+              "RelativeToolTip": "WebApi2\\Controllers\\WorkshopController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAuwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:58:28.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WorkshopClientApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T13:46:58.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditEquipment.cshtml",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Home\\EditEquipment.cshtml",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Views\\Home\\EditEquipment.cshtml",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Home\\EditEquipment.cshtml",
+              "RelativeToolTip": "WorkshopClientApp\\Views\\Home\\EditEquipment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T14:02:23.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Workshop.cs",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WebApi2\\Data\\Workshop.cs",
+              "RelativeDocumentMoniker": "WebApi2\\Data\\Workshop.cs",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WebApi2\\Data\\Workshop.cs",
+              "RelativeToolTip": "WebApi2\\Data\\Workshop.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:17:16.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkshopAddDto.cs",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Models\\WorkshopAddDto.cs",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Models\\WorkshopAddDto.cs",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Models\\WorkshopAddDto.cs",
+              "RelativeToolTip": "WorkshopClientApp\\Models\\WorkshopAddDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:12:13.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkshopClientService.cs",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Services\\WorkshopClientService.cs",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Services\\WorkshopClientService.cs",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Services\\WorkshopClientService.cs",
+              "RelativeToolTip": "WorkshopClientApp\\Services\\WorkshopClientService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:36:29.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddEquipment.cshtml",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Home\\AddEquipment.cshtml",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Views\\Home\\AddEquipment.cshtml",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Home\\AddEquipment.cshtml",
+              "RelativeToolTip": "WorkshopClientApp\\Views\\Home\\AddEquipment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T13:59:35.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EquipmentClientService.cs",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Services\\EquipmentClientService.cs",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Services\\EquipmentClientService.cs",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Services\\EquipmentClientService.cs",
+              "RelativeToolTip": "WorkshopClientApp\\Services\\EquipmentClientService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwDwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T13:02:08.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IndexEquipment.cshtml",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Home\\IndexEquipment.cshtml",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Views\\Home\\IndexEquipment.cshtml",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Home\\IndexEquipment.cshtml",
+              "RelativeToolTip": "WorkshopClientApp\\Views\\Home\\IndexEquipment.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T13:43:57.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WorkshopClientApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Lex\\\u043C\u0430\u0433\u0430\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 web-\u0441\u0435\u0440\u0432\u0438\u0441\u043E\u0432 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u043E-\u043C\u043E\u0434\u0435\u043B\u0438\u0440\u0443\u044E\u0449\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043C \u0432 \u043C\u0435\u0442\u0430\u043B\u043B\u0443\u0440\u0433\u0438\u0438\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WorkshopClientApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T13:54:49.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

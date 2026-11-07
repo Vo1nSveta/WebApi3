@@ -1,0 +1,33 @@
+﻿@model WorkshopClientApp.Data.Workshop
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2 class="h2">Редактирование цеха</h2>
+
+<form method="post">
+
+    <input type="hidden" name="Id" value="@Model?.Id" />
+
+    <div class="mb-3">
+        <label for="nameWorkshop" class="form-label">Название</label>
+        <input type="text"
+               name="nameWorkshop"
+               id="nameWorkshop"
+               class="form-control"
+               value="@Model?.NameWorkshop" />
+    </div>
+
+    <div class="mb-3">
+        <label for="groupWorkshop" class="form-label">Группа</label>
+        <input type="text"
+               name="groupWorkshop"
+               id="groupWorkshop"
+               class="form-control"
+               value="@Model?.GroupWorkshop" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>
+

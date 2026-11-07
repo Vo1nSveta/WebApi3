@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "WorkshopClientApp\\WorkshopClientApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebApi2\\WorkshopWebApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

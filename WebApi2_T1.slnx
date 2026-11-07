@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WebApi2/WorkshopWebApi.csproj" Id="ad572ee1-2cf1-4261-bd50-6df7147520da" />
+  <Project Path="WorkshopClientApp/WorkshopClientApp.csproj" Id="bc1ec9a6-1681-426e-86f6-ae60a33c6c4a" />
+</Solution>

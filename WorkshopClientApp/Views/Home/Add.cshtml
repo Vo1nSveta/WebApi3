@@ -1,0 +1,39 @@
+﻿@model List<WorkshopClientApp.Data.Equipment>
+@{
+    ViewData["Title"] = "Добавление оборудования";
+}
+
+<h2 class="h2">Добавление нового оборудования</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label for="nameWorkshop" class="form-label">Имя</label>
+        <input type="text" name="nameWorkshop" id="nameWorkshop" class="form-control" required>
+    </div>
+    <div class="mb-3">
+        <label for="groupWorkshop" class="form-label">Группа</label>
+        <input type="text" name="groupWorkshop" id="groupWorkshop" class="form-control" required>
+    </div>
+    <div class="mb-3">
+        <label for="name" class="form-label">Оборудование</label>
+        <select name="equipmentId" class="form-control">
+            @foreach (var equipment in Model)
+                {
+                <option value="@equipment.Id">@equipment.Name</option>
+                }
+            </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Добавить</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger mt-3">
+        @foreach (var error in ViewData.ModelState.Values
+                    .SelectMany(v => v.Errors))
+        {
+            <div>@error.ErrorMessage</div>
+        }
+    </div>
+}
