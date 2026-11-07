@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WorkshopWebApi.Data;
 using WorkshopWebApi.Models;
@@ -8,7 +9,7 @@ namespace WorkshopWebApi.Controllers
 { 
     [ApiController]
     [Route("[controller]")]
-
+    [Authorize]
     public class EquipmentController : ControllerBase
     {
         private readonly MyAppContext _context;

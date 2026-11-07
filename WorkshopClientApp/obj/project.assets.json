@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lex\\мага\\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\WorkshopClientApp.csproj",
+      "projectUniqueName": "D:\\Lex\\мага\\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\\WebApi3\\WebApi3\\WorkshopClientApp\\WorkshopClientApp.csproj",
       "projectName": "WorkshopClientApp",
-      "projectPath": "D:\\Lex\\мага\\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\WorkshopClientApp.csproj",
+      "projectPath": "D:\\Lex\\мага\\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\\WebApi3\\WebApi3\\WorkshopClientApp\\WorkshopClientApp.csproj",
       "packagesPath": "C:\\Users\\UzverL\\.nuget\\packages\\",
-      "outputPath": "D:\\Lex\\мага\\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\\WebApi3\\WebApi2_T1\\WorkshopClientApp\\obj\\",
+      "outputPath": "D:\\Lex\\мага\\Технологии разработки web-сервисов информационно-моделирующих систем в металлургии\\WebApi3\\WebApi3\\WorkshopClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

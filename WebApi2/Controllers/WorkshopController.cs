@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using WorkshopWebApi.Data;
 using WorkshopWebApi.Models;
@@ -6,6 +7,7 @@ namespace WorkshopWebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+   
     public class WorkshopController : ControllerBase
     {
         

@@ -1,5 +1,26 @@
 [
   {
+    "ContainingType": "WorkshopWebApi.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "Account",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WorkshopWebApi.Controllers.EquipmentController",
     "Method": "Get",
     "RelativePath": "Equipment",
