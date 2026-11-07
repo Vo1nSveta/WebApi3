@@ -155,6 +155,12 @@ public class HomeController : Controller
             return RedirectToAction(nameof(IndexEquipment));
         }
 
+        [Authorize(Roles = "Admin")]
+        public IActionResult AdminPanel()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

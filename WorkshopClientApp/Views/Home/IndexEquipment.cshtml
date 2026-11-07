@@ -33,8 +33,19 @@
         <tr>
             <td>@item.Name</td>
             <td>
+                @if (User.IsInRole("Admin"))
+                {
+                    <a href="/home/addEquipment"><button class="btn btn-success">Добавить оборудование</button></a>
+                }
+                @if (User.IsInRole("Admin"))
+                {
                     <a href="/home/editequipment/@item.Id">Редактировать</a>
                     <a href="/home/removeequipment/@item.Id" style="color: red;">Удалить</a>
+                }
+                else
+                {
+                    <span class="text-muted">Только просмотр</span>
+                }
             </td>
         </tr>
         

@@ -31,21 +31,30 @@
         <th>Группа</th>
         <th>Действия</th>
     </tr>
-    @foreach(var item in Model)
+    @foreach (var item in Model)
     {
         <tr>
             <td>@item.NameWorkshop</td>
             <td>@item.GroupWorkshop</td>
             <td>
-                <a href="/home/edit/@item.Id">Редактировать</a>
-                <a href="/home/remove/@item.Id" style="color: red;">Удалить</a>
+                @if (User.IsInRole("Admin"))
+                {
+                    <a href="/home/edit/@item.Id">Редактировать</a>
+                    <a href="/home/remove/@item.Id" style="color: red;">Удалить</a>
+                }
+                @if (User.IsInRole("Admin"))
+                {
+                    <a href="/home/add"><button class="btn btn-success">Добавить цех</button></a>
+                }
+
+                else
+                {
+                    <span class="text-muted">Только просмотр</span>
+                }
+
             </td>
         </tr>
-        
     }
-
-  
-
 </table>
 
 

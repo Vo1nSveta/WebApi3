@@ -55,6 +55,9 @@ namespace WorkshopClientApp.Controllers
         }
 
         [HttpGet]
+        public IActionResult AccessDenied() => View();
+
+        [HttpGet]
         public IActionResult Register() => View();
 
         //принимает данные формы, создаёт пользователя в БД.
